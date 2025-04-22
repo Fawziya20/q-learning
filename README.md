@@ -7,7 +7,7 @@ To develop a Python program to find the optimal policy for the given RL environm
 Develop Python program to derive the optimal policy using Q-Learning and compare state values with Monte Carlo method.
 
 ## Q LEARNING ALGORITHM:
-1. Initialize Q-table and hyperparameters.dafdasf
+1. Initialize Q-table and hyperparameters.dafdasfsfaa
 2. Choose an action using the epsilon-greedy policy and execute the action, observe the next state, reward, and update Q-values and repeat until episode ends.
 3. After training, derive the optimal policy from the Q-table.
 4. Implement the Monte Carlo method to estimate state values.
